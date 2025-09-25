@@ -4,3 +4,6 @@ def hello():
 
 if __name__ == "__main__":
     hello()
+
+def feature():
+    print("New feature is working!")
