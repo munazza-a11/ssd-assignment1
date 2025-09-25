@@ -1,0 +1,6 @@
+# main.py - initial file for team project
+def hello():
+    print("Hello, team project!")
+
+if __name__ == "__main__":
+    hello()
